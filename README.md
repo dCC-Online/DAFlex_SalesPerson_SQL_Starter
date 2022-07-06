@@ -37,7 +37,7 @@ As a data analyst, you’ll write SQL queries as prompted to discover insights i
 8. Click Next five times - you will not need to change any settings when setting this project up for the first time.
 9. Repeat Steps 6 and 7 for `employees.csv` and `products.csv`
 10. Now, go to File > Open SQL Script in the top menu of MySQL Workbench.
-11. In the window that pops up, choose the sql_in_action-starter.sql file from the starter files, then click Open
+11. In the window that pops up, choose the `queries.sql` file from the starter files, then click Open
 12. You should see the script open in MySQL Workbench with all of the problems written out in SQL comments.
 13. Write your queries underneath the problem they relate to, and execute those queries to check that they give you the expected output!
 
