@@ -6,17 +6,17 @@ As a data analyst, you’ll write SQL queries as prompted to discover insights i
 
 ## PREREQUISITES
 
-1. MySQL Server and MySQL Workbench, installed on your computer
-2. Intermediate understanding of SQL queries
-   a. SELECT, SELECT DISTINCT
-   b. WHERE, operators with WHERE, complex expressions using AND, OR, NOT, and NULL
-   c. Filtering and sorting (LIMIT, ORDER BY)
-   d. Aggregate functions: COUNT, MIN, MAX, AVG, SUM, GROUP BY
-   e. Aliasing (creating a new temporary column with the AS clause)
-   f. SQL comments
-   g. JOINs
-   h. Subqueries
-   i. Views
+- MySQL Server and MySQL Workbench, installed on your computer
+- Intermediate understanding of SQL queries
+  - SELECT, SELECT DISTINCT
+  - WHERE, operators with WHERE, complex expressions using AND, OR, NOT, and NULL
+  - Filtering and sorting (LIMIT, ORDER BY)
+  - Aggregate functions: COUNT, MIN, MAX, AVG, SUM, GROUP BY
+  - Aliasing (creating a new temporary column with the AS clause)
+  - SQL comments
+  - JOINs
+  - Subqueries
+  - Views
 
 ## INSTRUCTIONS
 
